@@ -14,8 +14,8 @@
 		  接下来的 1 行，包含 n 个数字表示排列 A，
 		  其中等于0的项表示看不清的位置（不超过 10 个）。
 		输出描述:
-	      输出一行表示合法的排列数目。
-![miscolor]
+	      输一行表示合法的排列数目。
+![miscolor](https://github.com/frank-xman/leetcode-python/blob/master/mixcolor.py)
 
 	题目描述
 	你就是一个画家！
